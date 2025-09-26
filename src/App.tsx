@@ -1,4 +1,4 @@
-import React, { Suspense, useState, useEffect } from 'react';
+import  { Suspense, useState, useEffect } from 'react';
 import { Canvas } from '@react-three/fiber';
 import { motion, AnimatePresence } from 'framer-motion';
 import Scene3D from './components/Scene3D';
