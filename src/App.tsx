@@ -37,6 +37,7 @@ function App(): JSX.Element {
       }
     };
 
+    
     window.addEventListener('scroll', handleScroll);
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
