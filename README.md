@@ -1,177 +1,178 @@
-# Jahangeer I - 3D Portfolio
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/jahangeer-dev.png" width="150" height="150" style="border-radius: 50%" alt="Jahangeer I" />
-</p>
+# 🌌 JAHANGEER I 
 
-<h1 align="center">🚀 Interactive 3D Portfolio Website</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+the+Future+with+Code" alt="Typing SVG" />
 
-<p align="center">
-  A modern, high-performance 3D portfolio website built with React, TypeScript, and Vite.
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-18.x-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vite-4.x-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=00F5FF)](https://jahangeer-dev.github.io/podtfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jahangeer-dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jahangeer7704@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0" width="100%"/>
+
+</div>
 
 ---
 
-## 🚀 Tech Stack
+<div align="center">
+  
+### 🎯 WHAT I DO
 
-**Frontend Framework & Build Tools:**
-- **React 18** + **TypeScript** - Type-safe component development
-- **Vite** - Lightning-fast build tool and dev server
-- **Tailwind CSS** - Utility-first CSS framework
+</div>
 
-**3D Graphics & Animations:**
-- **React Three Fiber** - React renderer for Three.js
-- **Drei** - Useful helpers for R3F
-- **Framer Motion** - Production-ready motion library
-
-**Performance Optimizations:**
-- **Code Splitting** - Lazy loaded 3D components
-- **Mobile-First Design** - Optimized for all devices
-- **Type Safety** - Full TypeScript implementation
-
----
-
-## ✨ Features
-
-🎮 **3D Interactive Background** - Floating geometric shapes that respond to navigation  
-📱 **Mobile-First Design** - Optimized for all device sizes  
-🎭 **Smooth Animations** - Framer Motion powered transitions  
-🎨 **Glass Morphism UI** - Modern, translucent design elements  
-⚡ **Performance Optimized** - Lazy loading and efficient 3D rendering  
-🔒 **Type Safe** - Full TypeScript implementation  
-
----
-
-## 🏗️ Project Structure
-
-```
-src/
-├── components/          # React components
-│   ├── Scene3D.tsx     # 3D background scene
-│   ├── Navigation.tsx  # Navigation component
-│   ├── Hero.tsx        # Hero section
-│   ├── About.tsx       # About section
-│   ├── Experience.tsx  # Experience timeline
-│   ├── Skills.tsx      # Skills showcase
-│   ├── Contact.tsx     # Contact form
-│   └── Loading.tsx     # Loading component
-├── types.ts            # TypeScript type definitions
-├── index.css           # Global styles
-├── App.tsx             # Main app component
-└── main.tsx            # App entry point
+```ascii
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║   🔷 MERN Stack Developer     →  React • Node.js • MongoDB • Express    ║
+║   🔷 Microservices Architect  →  Scalable • Modular • Real-time         ║
+║   🔷 Tech Mentor              →  200+ Students Trained                  ║
+║   🔷 Problem Solver           →  Clean Code • Best Practices            ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🛠️ Development
+<div align="center">
 
-### Prerequisites
-- Node.js 18+ 
-- npm or yarn
+### ⚡ TECH STACK
 
-### Installation
-```bash
-# Install dependencies
-npm install
+<br/>
 
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
-
-# Preview production build
-npm run preview
-```
-
----
-
-## 👨‍� About Me
-
-**Full Stack Developer** specializing in MERN stack and microservices architecture.
-
-- 🎓 **B.Tech CSE** at Achariya College of Engineering Technology (CGPA: 8.4)
-- 👨‍🏫 **MERN Stack Trainer** - Mentored 200+ students at GzofTech
-- 💼 **Freelance Developer** - Built scalable applications for various clients
-- 🏆 **Multiple Certifications** - React.js, Node.js, Backend Development
-
-**Recent Projects:**
-- **Chronexa HRMS** - Scalable HR management system
-- **Tred Scanner** - Community platform with microservices
-- **Sirtifai Portfolio** - Business website with animations
-- **GzofTech Enhancement** - Modern portfolio with state management
-
----
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jahangeer-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahangeer-dev&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-## 🛠️ Technologies I Work With
-
-**Programming Languages:**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Frontend:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend:**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-
-**Databases:**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Tools & DevOps:**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000?style=for-the-badge&logo=three.js&logoColor=white)
+
+</div>
 
 ---
 
-## 📧 Contact
+<div align="center">
 
-- **Email**: jahangeer7704@gmail.com
-- **Phone**: +91 8428140571
-- **Location**: Villupuram, Tamil Nadu
-- **LinkedIn**: [linkedin.com/in/jahangeer-dev](https://www.linkedin.com/in/jahangeer-dev/)
-- **GitHub**: [github.com/jahangeer-dev](https://github.com/jahangeer-dev)
+### 📊 GITHUB STATS
 
----
+<br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jahangeer-dev/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/jahangeer-dev"><img src="https://img.shields.io/badge/-GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:jahangeer7704@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jahangeer-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BF00FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=jahangeer-dev&theme=radical&hide_border=true&background=0D1117&ring=00F5FF&fire=BF00FF&currStreakLabel=00F5FF" />
 
----
+<br/><br/>
 
-<p align="center">
-  <i>💻 Building scalable applications with modern web technologies</i><br/>
-  <i>🎯 Passionate about clean code, microservices, and mentoring developers</i>
-</p>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahangeer-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" />
+
+</div>
 
 ---
 
-> 💬 _"Passionate about building innovative digital solutions and mentoring the next generation of developers."_ 🚀
+<div align="center">
+
+### 🏆 ACHIEVEMENTS
+
+<br/>
+
+| 📌 Metric | 🎯 Value |
+|:---:|:---:|
+| 🎓 **CGPA** | **8.4** |
+| 👨‍🏫 **Students Mentored** | **200+** |
+| 🚀 **Projects Delivered** | **10+** |
+| 📜 **Certifications** | **6+** |
+
+</div>
+
+---
+
+<div align="center">
+
+### 💼 RECENT PROJECTS
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+#### 🔹 GzofTech
+> Educational platform for MERN Stack training  
+> `React` `Node.js` `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 PatchWatch
+> Security vulnerability monitoring system  
+> `Next.js` `Prisma` `NVD API`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔹 Tred Scanner
+> Community platform with microservices  
+> `React` `MongoDB` `Redis` `Socket.io`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔹 This Portfolio
+> 3D Interactive Portfolio with magic  
+> `React` `Three.js` `Framer Motion`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 📬 LET'S CONNECT
+
+<br/>
+
+<a href="mailto:jahangeer7704@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/jahangeer-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/jahangeer-dev">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+```
+📍 Villupuram, Tamil Nadu  •  📞 +91 8428140571
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**🟢 Currently Available for Freelance & Full-Time Opportunities**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=jahangeer-dev&style=for-the-badge&color=00F5FF" alt="Profile Views" />
+
+</div>
