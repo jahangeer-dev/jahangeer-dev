@@ -397,7 +397,6 @@ function Section({ children, className = "", id = "" }: { children: React.ReactN
   );
 }
 
-// ==================== HERO SECTION ====================
 function HeroSection() {
   return (
     <section className="min-h-screen flex flex-col items-center justify-center relative px-4">
