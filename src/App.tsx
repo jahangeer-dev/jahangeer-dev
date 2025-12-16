@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef, useCallback } from 'react';
-import { motion, AnimatePresence, useMotionValue, useSpring, useTransform, useScroll, useInView } from 'framer-motion';
+import { motion, AnimatePresence, useMotionValue, useSpring, useScroll, useInView } from 'framer-motion';
 
 // ==================== DATA ====================
 const DATA = {
